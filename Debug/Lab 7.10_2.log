@@ -1,0 +1,10 @@
+﻿  Lab 7.10_2.cpp
+C:\Users\Eduardo\source\repos\Steph's\Lab 7.10_2\Lab 7.10_2.cpp(14,5): error C2601: 'main': local function definitions are illegal
+C:\Users\Eduardo\source\repos\Steph's\Lab 7.10_2\Lab 7.10_2.cpp(7): message : this line contains a '{' which has not yet been matched
+C:\Users\Eduardo\source\repos\Steph's\Lab 7.10_2\Lab 7.10_2.cpp(19,20): error C2039: 'setprecision': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\iostream(19): message : see declaration of 'std'
+C:\Users\Eduardo\source\repos\Steph's\Lab 7.10_2\Lab 7.10_2.cpp(19,9): error C2873: 'setprecision': symbol cannot be used in a using-declaration
+C:\Users\Eduardo\source\repos\Steph's\Lab 7.10_2\Lab 7.10_2.cpp(33,26): error C3861: 'setprecision': identifier not found
+C:\Users\Eduardo\source\repos\Steph's\Lab 7.10_2\Lab 7.10_2.cpp(35,20): error C2065: 'Loan_amount': undeclared identifier
+C:\Users\Eduardo\source\repos\Steph's\Lab 7.10_2\Lab 7.10_2.cpp(38,13): error C2065: 'fee': undeclared identifier
+C:\Users\Eduardo\source\repos\Steph's\Lab 7.10_2\Lab 7.10_2.cpp(41,13): error C2065: 'fee': undeclared identifier
